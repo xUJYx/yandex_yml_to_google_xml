@@ -1,0 +1,18 @@
+{
+  "name": "ujy/yandex_yml_to_google_xml",
+  "description": "Class to convert Yandex Market YML to Google Merchant XML file",
+  "keywords": ["Yandex Market", "Google Merchant", "YML", "XML", "Converter"],
+  "type": "library",
+  "homepage": "https://github.com/xUJYx/yandex_yml_to_google_xml",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ievgenii Gardysh",
+      "email": "ujy@ukr.net",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "classmap": ["src/"]
+  }
+}
